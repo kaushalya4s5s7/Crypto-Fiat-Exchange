@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.15">
+    <path d="M0 0h1440v900H0z" fill="#000"/>
+    <path fill="#333" d="M0 0h100v100H0z"/>
+    <path fill="#333" d="M200 100h100v100H200z"/>
+    <path fill="#333" d="M400 200h100v100H400z"/>
+    <path fill="#333" d="M600 300h100v100H600z"/>
+    <path fill="#333" d="M800 400h100v100H800z"/>
+    <path fill="#333" d="M1000 500h100v100H1000z"/>
+    <path fill="#333" d="M1200 600h100v100H1200z"/>
+    <path fill="#333" d="M1400 700h100v100H1400z"/>
+  </g>
+</svg>
